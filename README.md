@@ -1,6 +1,7 @@
 # RPA Challenger Pro 🤖
 
-ExcelやCSVのデータを読み取り、ブラウザ操作を自動化するWails製のRPAツールです。
+ExcelやCSVのデータを読み取り、ブラウザ操作を自動化するWails製のRPAツールです。  
+要素の位置が動的に変化する[自動化テスト用サイト](https://www.rpachallenge.com/)にて、7項目×10ラウンドの入力を約5秒で完了しています。
 
 ## 🚀 機能
 - **ファイル選択**: Excel/CSVファイルをUIから簡単選択
